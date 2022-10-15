@@ -1,4 +1,4 @@
-- 👋 Hi, I’m clement
-- 👀 I’m interested in photography
-- 🌱 I’m currently learning python/html
-- 💞️ I’m looking to collaborate on web3
+-  Hi, I’m clement
+-  I’m interested in photography
+-  I’m currently learning python/html
+-  I’m looking to collaborate on web3
