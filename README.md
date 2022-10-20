@@ -1,4 +1,4 @@
--  Hi, I’m clement
--  I’m interested in photography
--  I’m currently learning python/html
--  I’m looking to collaborate on web3
+i’m clement
+i’m interested in photography
+i’m currently learning python/html/css
+i’m looking to collaborate on web3
